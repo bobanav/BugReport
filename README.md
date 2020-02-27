@@ -1,0 +1,2 @@
+# BugReport
+Writing bug report.
